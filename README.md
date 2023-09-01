@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hello! I'm Lord - []() 👋
+# Hello! I'm Optimus - []() 👋
 
-### I'm Backend Frontend Developer, Developing Discord Bots and Modules!
+### I'm Backend and Frontend Developer, Developing Discord Bots and Modules!
 - 📚 I'm currently learning networking, docker
 
 - ⚡ I code in Node.js, Html, Css, JavaScript
